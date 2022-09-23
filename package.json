@@ -4,7 +4,7 @@
   "description": "landing page para mi carrera Cartografía ya que ella me ha dado para realizar mi ingeniería de sistemas y descubrí algo hermoso y que me encanta la programar",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
