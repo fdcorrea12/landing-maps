@@ -1,0 +1,23 @@
+{
+  "name": "landing-maps",
+  "version": "1.0.0",
+  "description": "landing page para mi carrera Cartografía ya que ella me ha dado para realizar mi ingeniería de sistemas y descubrí algo hermoso y que me encanta la programar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdcorrea12/landing-maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdcorrea12/landing-maps/issues"
+  },
+  "homepage": "https://github.com/fdcorrea12/landing-maps#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
